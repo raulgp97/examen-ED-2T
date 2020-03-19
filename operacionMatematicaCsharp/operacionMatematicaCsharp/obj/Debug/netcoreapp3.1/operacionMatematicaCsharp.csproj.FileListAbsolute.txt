@@ -1,0 +1,11 @@
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\bin\Debug\netcoreapp3.1\operacionMatematicaCsharp.exe
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\bin\Debug\netcoreapp3.1\operacionMatematicaCsharp.deps.json
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\bin\Debug\netcoreapp3.1\operacionMatematicaCsharp.runtimeconfig.json
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\bin\Debug\netcoreapp3.1\operacionMatematicaCsharp.runtimeconfig.dev.json
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\bin\Debug\netcoreapp3.1\operacionMatematicaCsharp.dll
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\bin\Debug\netcoreapp3.1\operacionMatematicaCsharp.pdb
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\obj\Debug\netcoreapp3.1\operacionMatematicaCsharp.csprojAssemblyReference.cache
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\obj\Debug\netcoreapp3.1\operacionMatematicaCsharp.AssemblyInfoInputs.cache
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\obj\Debug\netcoreapp3.1\operacionMatematicaCsharp.AssemblyInfo.cs
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\obj\Debug\netcoreapp3.1\operacionMatematicaCsharp.dll
+C:\Users\el-bb\source\repos\operacionMatematicaCsharp\operacionMatematicaCsharp\obj\Debug\netcoreapp3.1\operacionMatematicaCsharp.pdb
