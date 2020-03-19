@@ -1,0 +1,11 @@
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\bin\Debug\netcoreapp3.1\ControlErrores.exe
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\bin\Debug\netcoreapp3.1\ControlErrores.deps.json
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\bin\Debug\netcoreapp3.1\ControlErrores.runtimeconfig.json
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\bin\Debug\netcoreapp3.1\ControlErrores.runtimeconfig.dev.json
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\bin\Debug\netcoreapp3.1\ControlErrores.dll
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\bin\Debug\netcoreapp3.1\ControlErrores.pdb
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\obj\Debug\netcoreapp3.1\ControlErrores.csprojAssemblyReference.cache
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\obj\Debug\netcoreapp3.1\ControlErrores.AssemblyInfoInputs.cache
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\obj\Debug\netcoreapp3.1\ControlErrores.AssemblyInfo.cs
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\obj\Debug\netcoreapp3.1\ControlErrores.dll
+C:\Users\el-bb\source\repos\ControlErrores\ControlErrores\obj\Debug\netcoreapp3.1\ControlErrores.pdb
