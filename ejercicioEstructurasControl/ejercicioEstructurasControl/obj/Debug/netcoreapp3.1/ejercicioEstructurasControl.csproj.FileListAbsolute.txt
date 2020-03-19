@@ -1,0 +1,11 @@
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\bin\Debug\netcoreapp3.1\ejercicioEstructurasControl.exe
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\bin\Debug\netcoreapp3.1\ejercicioEstructurasControl.deps.json
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\bin\Debug\netcoreapp3.1\ejercicioEstructurasControl.runtimeconfig.json
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\bin\Debug\netcoreapp3.1\ejercicioEstructurasControl.runtimeconfig.dev.json
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\bin\Debug\netcoreapp3.1\ejercicioEstructurasControl.dll
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\bin\Debug\netcoreapp3.1\ejercicioEstructurasControl.pdb
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\obj\Debug\netcoreapp3.1\ejercicioEstructurasControl.csprojAssemblyReference.cache
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\obj\Debug\netcoreapp3.1\ejercicioEstructurasControl.AssemblyInfoInputs.cache
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\obj\Debug\netcoreapp3.1\ejercicioEstructurasControl.AssemblyInfo.cs
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\obj\Debug\netcoreapp3.1\ejercicioEstructurasControl.dll
+C:\Users\el-bb\source\repos\ejercicioEstructurasControl\ejercicioEstructurasControl\obj\Debug\netcoreapp3.1\ejercicioEstructurasControl.pdb
