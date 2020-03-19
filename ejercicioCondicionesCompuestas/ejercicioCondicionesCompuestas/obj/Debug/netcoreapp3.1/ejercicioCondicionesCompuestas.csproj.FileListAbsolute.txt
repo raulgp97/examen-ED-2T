@@ -1,0 +1,11 @@
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\bin\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.exe
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\bin\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.deps.json
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\bin\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.runtimeconfig.json
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\bin\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.runtimeconfig.dev.json
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\bin\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.dll
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\bin\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.pdb
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\obj\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.csprojAssemblyReference.cache
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\obj\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.AssemblyInfoInputs.cache
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\obj\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.AssemblyInfo.cs
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\obj\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.dll
+C:\Users\el-bb\source\repos\ejercicioCondicionesCompuestas\ejercicioCondicionesCompuestas\obj\Debug\netcoreapp3.1\ejercicioCondicionesCompuestas.pdb
